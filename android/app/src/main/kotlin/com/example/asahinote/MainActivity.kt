@@ -1,4 +1,4 @@
-package com.example.flupages
+package com.example.asahinote
 
 import io.flutter.embedding.android.FlutterActivity
 

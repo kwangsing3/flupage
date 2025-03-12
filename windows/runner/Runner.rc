@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "flupages" "\0"
+            VALUE "FileDescription", "asahinote" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "flupages" "\0"
+            VALUE "InternalName", "asahinote" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "flupages.exe" "\0"
-            VALUE "ProductName", "flupages" "\0"
+            VALUE "OriginalFilename", "asahinote.exe" "\0"
+            VALUE "ProductName", "asahinote" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
