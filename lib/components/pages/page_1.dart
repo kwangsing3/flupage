@@ -12,7 +12,7 @@ class Page1 extends StatelessWidget {
           rows: [
             DataRow(cells: [DataCell(Text('XX'))]),
             DataRow(cells: [DataCell(Text('YY'))]),
-            DataRow(cells: [DataCell(Text('ZZ'))]),
+            DataRow(cells: [DataCell(Text('Zx'))]),
           ],
         ),
       ),
